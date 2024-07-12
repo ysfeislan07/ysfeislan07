@@ -24,4 +24,4 @@ I'm a web developer with expertise in both front-end and back-end development. I
 
 ## 💬 Let's Connect
 [![Linkedin: Eislan Yusuf](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eislan-yusuf/)](https://www.linkedin.com/in/eislan-yusuf/)
-[![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)](https://github.com/ysfeislan07)
+[![GitHub followers](https://img.shields.io/github/followers/ysfeislan07?label=Follow&style=social)](https://github.com/ysfeislan07)
