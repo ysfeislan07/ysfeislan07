@@ -6,7 +6,7 @@
 Selamat datang di profil GitHub saya! Saya adalah seorang Pengembang Web dengan pengalaman dalam membangun dan merancang aplikasi web dinamis. Dengan latar belakang yang kuat dalam HTML, CSS, PHP dan JavaScript, saya berfokus pada pengembangan Front-End yang responsif dan interaktif.
 
 ## 🔧 Teknologi & Keterampilan
-- Bahasa Pemrograman: Python, JavaScript, Java
+- Bahasa Pemrograman: Python, JavaScript
 - Frameworks: React, Code Igniter
   
 ![Bahasa yang Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&layout=compact&theme=radical)
