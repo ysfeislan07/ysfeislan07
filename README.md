@@ -20,7 +20,7 @@ I'm a web developer with expertise in both front-end and back-end development. I
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub commit activity](https://github.com/ysfeislan07)
+![GitHub commit activity](https://github.com/ysfeislan07?username=ysfeislan07&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&layout=compact&theme=radical)
 
 ## 💬 Let's Connect
