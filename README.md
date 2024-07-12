@@ -9,15 +9,11 @@ Selamat datang di profil GitHub saya! Saya adalah seorang Pengembang Web dengan 
 - Bahasa Pemrograman: Python, JavaScript, Java
 - Frameworks: React, Code Igniter
   
-![Coding](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
 ![Bahasa yang Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&layout=compact&theme=radical)
 
 ## 📫 Hubungi Saya
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [Nama Anda](https://www.linkedin.com/in/username/)
-- Twitter: [@username](https://twitter.com/username)
-
+- Email: [yusufeislan123@gmail.com](mailto:yusufeislan123@gmail.com)
+- LinkedIn: [Eislan Yusuf](https://www.linkedin.com/in/eislan-yusuf/)
 
 <!---
 ysfeislan07/ysfeislan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
