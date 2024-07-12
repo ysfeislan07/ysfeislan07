@@ -9,8 +9,7 @@ Selamat datang di profil GitHub saya! Saya adalah seorang Pengembang Web dengan 
 - Bahasa Pemrograman: Python, JavaScript, Java
 - Frameworks: React, Code Igniter
   
-## 📊 Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=ysfeislan07&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
+![Coding](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
 ![Bahasa yang Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&layout=compact&theme=radical)
 
