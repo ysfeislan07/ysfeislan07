@@ -1,7 +1,7 @@
 - # 👋 Halo, saya [Eislan Yusuf]!
 
 [![GitHub followers](https://img.shields.io/github/followers/ysfeislan07?label=Follow&style=social)](https://github.com/ysfeislan07)
-[![Linkedin: Eislan Yusuf](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eislan-yusuf/)](https://www.linkedin.com/in/eislan-yusuf/)
+[![Linkedin: Eislan Yusuf](https://img.shields.io/badge/-FOllow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eislan-yusuf/)](https://www.linkedin.com/in/eislan-yusuf/)
 
 Selamat datang di profil GitHub saya! Saya adalah [deskripsi singkat tentang Anda, misalnya seorang pengembang perangkat lunak dengan minat di bidang XYZ].
 
