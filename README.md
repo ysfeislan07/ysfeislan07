@@ -20,7 +20,6 @@ I'm a web developer with expertise in both front-end and back-end development. I
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-![Eislan Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysfeislan07&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&layout=compact&theme=radical)
 
 ## 💬 Let's Connect
