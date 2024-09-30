@@ -21,6 +21,17 @@ I'm a web developer with expertise in both front-end and back-end development. I
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&layout=compact&theme=radical)
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile%20views&color=0e75b6&style=flat" alt="ysfeislan07" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysfeislan07&show_icons=true&locale=en" alt="ysfeislan07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysfeislan07&" alt="ysfeislan07" /></p>
 
 ## 💬 Let's Connect
 [![Linkedin: Eislan Yusuf](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eislan-yusuf/)](https://www.linkedin.com/in/eislan-yusuf/)
