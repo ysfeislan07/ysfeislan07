@@ -29,6 +29,6 @@ I'm a web developer with expertise in both front-end and back-end development. I
 
 ## 💬 Let's Connect
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile%20views&color=0e75b6&style=flat" alt="ysfeislan07" /> </p>
-[![Linkedin: Eislan Yusuf](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eislan-yusuf/)](https://www.linkedin.com/in/eislan-yusuf/)
-[![Instagram: Eislan Yusuf](https://img.shields.io/badge/-Follow-ff1493?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eislannnn/)](https://www.instagram.com/eislannnn/)
-[![GitHub followers](https://img.shields.io/github/followers/ysfeislan07?label=Follow&style=social)](https://github.com/ysfeislan07)
+![Linkedin: Eislan Yusuf](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eislan-yusuf/)(https://www.linkedin.com/in/eislan-yusuf/)
+![Instagram: Eislan Yusuf](https://img.shields.io/badge/-Follow-ff1493?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eislannnn/)(https://www.instagram.com/eislannnn/)
+![GitHub followers](https://img.shields.io/github/followers/ysfeislan07?label=Follow&style=social)](https://github.com/ysfeislan07)
