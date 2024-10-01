@@ -28,9 +28,6 @@ I'm a web developer with expertise in both front-end and back-end development. I
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysfeislan07&show_icons=true&locale=en" alt="ysfeislan07" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysfeislan07&" alt="ysfeislan07" /></p>
 
 ## 💬 Let's Connect
