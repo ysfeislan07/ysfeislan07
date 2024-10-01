@@ -21,10 +21,6 @@ I'm a web developer with expertise in both front-end and back-end development. I
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&layout=compact&theme=radical)
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysfeislan07&" alt="ysfeislan07" /></p>
 
 ## 💬 Let's Connect
