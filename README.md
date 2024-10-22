@@ -134,6 +134,6 @@ I'm a web developer with expertise in both front-end and back-end development. I
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ysfeislan07/ysfeislan07/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
