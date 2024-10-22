@@ -105,6 +105,7 @@ I'm a web developer with expertise in both front-end and back-end development. I
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ysfeislan07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ysfeislan07&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ### 💬 Let's Connect
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile%20views&color=0e75b6&style=flat" alt="ysfeislan07" /> </p>
