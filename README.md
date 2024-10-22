@@ -101,8 +101,6 @@ I'm a web developer with expertise in both front-end and back-end development. I
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-
-
 ### 📈 GitHub Stats
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ysfeislan07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
