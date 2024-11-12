@@ -6,7 +6,7 @@ I'm a web developer with expertise in both front-end and back-end development. I
 
 - 🌍 Location: [Indonesia]
 - 💼 Currently working as [Programmer]
-- ✉️ How to reach me: [yusufeislan123@gmail.com](mailto:yusufeislan123@gmail.com]
+- ✉️ How to reach me: [yusufeislan123@gmail.com](mailto:yusufeislan123@gmail.com)
 
 ### 🔧 Technologies & Tools
 <div align="left">  
