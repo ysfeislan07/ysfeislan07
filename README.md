@@ -32,7 +32,7 @@ I'm a web developer with expertise in both front-end and back-end development. I
 
 ### 📈 GitHub Stats
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=ysfeislan07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### 💬 Let's Connect
