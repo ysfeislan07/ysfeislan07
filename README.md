@@ -52,8 +52,7 @@ I'm a web developer with expertise in both front-end and back-end development. I
 </div>
  
 ### 📈 GitHub Stats
-<div align="left">
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ysfeislan07" alt="GitHub Streak" /></a>
 
 ### 💬 Let's Connect
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile%20views&color=0e75b6&style=flat" alt="ysfeislan07" /> </p>
