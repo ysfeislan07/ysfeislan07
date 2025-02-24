@@ -13,7 +13,7 @@ I'm a web developer with expertise in both front-end and back-end development. I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ysfeislan07&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eislanyusufff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eislan-yusuf) 
 ---
 [![](https://visitcount.itsvg.in/api?id=ysfeislan07&icon=0&color=0)](https://visitcount.itsvg.in)
