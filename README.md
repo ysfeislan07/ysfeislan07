@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Eislan Yusuf 
-Welcome to my GitHub Account! 👨‍💻 
+Welcome to my GitHub Account! 👨‍💻
  
 # 📌 About Me
 I'm a web developer with expertise in both front-end and back-end development. I enjoy tackling complex problems and turning ideas into reality through code. 
