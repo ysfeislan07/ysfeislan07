@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- HERO NAME (STATIC, BIG) -->
-<h1>Hi, I'm <span style="color:#00F7FF;">Eislan Yusuf</span> ⚡</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&pause=999999&color=00F7FF&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Eislan+Yusuf" />
 
-<!-- TAGLINE -->
 <p><i>Building systems that don’t just work — but scale.</i></p>
 
-<!-- TYPING ROLE -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Clean+Code+Advocate;Backend+%26+System+Design;Real-time+App+Enthusiast;UI+%2B+Logic+Balance" />
 
 </div>
