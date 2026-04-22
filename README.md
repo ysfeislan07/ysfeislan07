@@ -1,19 +1,13 @@
 <div align="center">
 
-███████╗██╗███████╗██╗      █████╗ ███╗   ██╗
-██╔════╝██║██╔════╝██║     ██╔══██╗████╗  ██║
-█████╗  ██║███████╗██║     ███████║██╔██╗ ██║
-██╔══╝  ██║╚════██║██║     ██╔══██║██║╚██╗██║
-███████╗██║███████║███████╗██║  ██║██║ ╚████║
-╚══════╝╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+<!-- BIG ANIMATED NAME - KELAP KELIP -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=55&pause=600&color=00F7FF&center=true&vCenter=true&multiline=false&width=900&height=120&lines=⚡+EISLAN+YUSUF+⚡;✦+EISLAN+YUSUF+✦;◈+EISLAN+YUSUF+◈;⚡+EISLAN+YUSUF+⚡" alt="EISLAN YUSUF" />
 
-<p>
-  <i>Building systems that don’t just work — but scale.</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;System+Builder;Clean+Code+Advocate;Design+%2B+Logic+Balance" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;System+Builder;Clean+Code+Advocate;Design+%2B+Logic+Balance" />
+<br/>
 
-<br>
+<p><i>Building systems that don't just work — but scale.</i></p>
 
 <img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile+Views&color=0e75b6&style=flat" />
 
@@ -24,7 +18,6 @@
 ## 🧠 About
 
 I build real-world systems — not just projects.
-
 Currently working on scalable solutions like **SIMRS** and experimenting with **real-time architecture** for modern apps.  
 I enjoy mixing **logic, performance, and clean UI** into one solid experience.
 
@@ -46,10 +39,8 @@ I enjoy mixing **logic, performance, and clean UI** into one solid experience.
 ## 📊 Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=ysfeislan07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
 </div>
 
 ---
@@ -57,6 +48,16 @@ I enjoy mixing **logic, performance, and clean UI** into one solid experience.
 ## 📈 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ysfeislan07&theme=tokyonight&area=true&hide_border=true"/>
+
+---
+
+## 🚧 Projects
+
+| Project | Role | Stack | Progress |
+|--------|------|------|----------|
+| 🚗 **AutoDrive** | Lead Dev | CI4, PostgreSQL | ███████░░ 70% |
+| 💳 **POS System** | R&D | WebSocket, QRIS | ███░░░░░░ 30% |
+| 🏥 **SIMRS** | Backend Dev | PHP, SQL | ██████████ 100% |
 
 ---
 
