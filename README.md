@@ -10,7 +10,7 @@
 
 ---
 
-🧠 About Me
+<h3>About Me</h3>
 
 I build systems that solve real problems — not just projects.
 
