@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=80&pause=999999&color=00F7FF&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Eislan+Yusuf" />
 
@@ -27,12 +27,9 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=php,postgresql,js,html,css,bootstrap,git,github,vscode,postman&theme=dark" />
-
-<br><br>
-
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="50"/>
 
 </div>
@@ -41,7 +38,7 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <!-- STATS -->
 <img src="https://github-readme-stats.vercel.app/api?username=ysfeislan07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
@@ -55,7 +52,7 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ## 🔥 Streak & Activity
 
-<div align="center">
+<div align="left">
 
 <img src="https://streak-stats.demolab.com?user=ysfeislan07&theme=tokyonight&hide_border=true" height="170"/>
 
@@ -71,7 +68,7 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ## 🌐 Connect
 
-<div align="center">
+<div align="left">
 
 <a href="https://linkedin.com/in/ysfeislan07">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
