@@ -10,7 +10,7 @@
 
 ---
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 
 I build systems that solve real problems — not just projects.
 
