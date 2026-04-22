@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://github.com/ysfeislan07.png" width="120" style="border-radius:50%;" />
-
-<h1 style="border:none;">EISLAN YUSUF</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Building+Scalable+Systems;Design+%2B+Logic+Enthusiast;Future+Tech+Architect" />
+<h1>⚡ EISLAN YUSUF ⚡</h1>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile+Views&color=0e75b6&style=flat" />
+  <i>Building systems that don’t just work — but scale.</i>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;System+Builder;Clean+Code+Advocate;Design+%2B+Logic+Balance" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
