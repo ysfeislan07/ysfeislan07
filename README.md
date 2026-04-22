@@ -36,20 +36,6 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ---
 
-<h3>Github Stats</h3>
-
-<div align="left">
-
-<!-- STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=ysfeislan07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<!-- TOP LANG -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
 <h3>Activity</h3>
 
 <div align="left">
