@@ -25,7 +25,7 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ---
 
-## 🛠️ Tech Stack
+<h3>Tech Stack</h3>
 
 <div align="left">
 
@@ -36,7 +36,7 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ---
 
-## 📊 GitHub Stats
+<h3>Github Stats</h3>
 
 <div align="left">
 
@@ -50,7 +50,7 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ---
 
-## 🔥 Streak & Activity
+<h3>Activity</h3>
 
 <div align="left">
 
@@ -60,13 +60,13 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ---
 
-## 📈 Contribution Graph
+<h3>Controbution Graph</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ysfeislan07&theme=tokyonight&area=true&hide_border=true"/>
 
 ---
 
-## 🌐 Connect
+<h3>Connect</h3>
 
 <div align="left">
 
