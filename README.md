@@ -55,16 +55,6 @@ I enjoy mixing **logic, performance, and clean UI** into one solid experience.
 
 ---
 
-## 🚧 Projects
-
-| Project | Role | Stack | Progress |
-|--------|------|------|----------|
-| 🚗 AutoDrive | Lead Dev | CI4, PostgreSQL | ███████░░ 70% |
-| 💳 POS System | R&D | WebSocket, QRIS | ███░░░░░░ 30% |
-| 🏥 SIMRS | Backend Dev | PHP, SQL | ██████████ 100% |
-
----
-
 ## 🌐 Connect
 
 <p align="center">
