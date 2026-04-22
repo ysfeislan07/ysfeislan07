@@ -59,7 +59,6 @@ I focus on combining **performance, clean logic, and user experience** into one 
 <a href="https://linkedin.com/in/ysfeislan07">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
 <a href="https://instagram.com/ysfeislan07">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
