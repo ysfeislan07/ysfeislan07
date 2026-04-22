@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me
+🧠 About Me
 
 I build systems that solve real problems — not just projects.
 
