@@ -4,7 +4,7 @@
 
 <p><i>Building systems that don’t just work — but scale.</i></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Clean+Code+Advocate;Backend+%26+System+Design;Real-time+App+Enthusiast;UI+%2B+Logic+Balance" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+Fullstack+Developer;Still+Learning%2C+Still+Growing;Building+Real+World+Projects;Focused+on+Improving+Everyday" />
 
 </div>
 
