@@ -54,14 +54,16 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 <h3>Connect</h3>
 
-<div align="left">
+<div align="center">
 
 <a href="https://linkedin.com/in/ysfeislan07" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://instagram.com/ysfeislan07" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
 </div>
