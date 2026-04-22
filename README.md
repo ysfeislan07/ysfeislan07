@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HERO NAME (BIG + ANIMATED) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Hi,+I'm+Eislan+Yusuf;Fullstack+Developer;System+Builder" />
+<!-- HERO NAME (STATIC, BIG) -->
+<h1>Hi, I'm <span style="color:#00F7FF;">Eislan Yusuf</span> ⚡</h1>
 
 <!-- TAGLINE -->
 <p><i>Building systems that don’t just work — but scale.</i></p>
