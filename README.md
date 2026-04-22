@@ -1,10 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=200&section=header&text=Hi,%20I'm%20Yusuf%20👋&fontSize=70&animation=fadeIn" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48" height="48" alt="Waving Hand" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Full-stack+Web+Enthusiast;UI%2FUX+Design+Lover;Crafting+Digital+Solutions" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I%27m+Yusuf,+a+Dev.;Crafting+Clean+Code;UI%2FUX%2BBackend;Building+Solutions">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I%27m+Yusuf,+a+Dev.;Crafting+Clean+Code;UI%2FUX%2BBackend;Building+Solutions" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
