@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=70&pause=999999&color=00F7FF&width=1000&height=120&lines=Hi,+I'm+Eislan+Yusuf" />
 
-<p style="margin-top:-10px;"><i>Building systems that don’t just work — but scale.</i></p>
+<p style="margin-top:-50px;"><i>Building systems that don’t just work — but scale.</i></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&width=650&lines=Junior+Fullstack+Developer;Still+Learning%2C+Still+Growing;Building+Real+World+Projects;Focused+on+Improving+Everyday" />
 
