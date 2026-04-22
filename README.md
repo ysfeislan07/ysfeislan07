@@ -57,13 +57,11 @@ I focus on combining **performance, clean logic, and user experience** into one 
 <div align="center">
 
 <a href="https://linkedin.com/in/ysfeislan07" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://instagram.com/ysfeislan07" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
