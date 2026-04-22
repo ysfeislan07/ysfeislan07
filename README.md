@@ -1,10 +1,10 @@
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=80&pause=999999&color=00F7FF&center=true&&width=1000&height=120&lines=Hi,+I'm+Eislan+Yusuf" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=80&pause=999999&color=00F7FF&width=1000&height=120&lines=Hi,+I'm+Eislan+Yusuf" />
 
 <p><i>Building systems that don’t just work — but scale.</i></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&width=650&lines=Junior+Fullstack+Developer;Still+Learning%2C+Still+Growing;Building+Real+World+Projects;Focused+on+Improving+Everyday" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&width=650&lines=Junior+Fullstack+Developer;Still+Learning%2C+Still+Growing;Building+Real+World+Projects;Focused+on+Improving+Everyday" />
 
 </div>
 
