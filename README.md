@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=⚡+EISLAN+YUSUF+⚡;⚡+EISLAN+YUSUF+⚡" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=220&section=header&text=EISLAN%20YUSUF&fontSize=90&animation=fadeIn&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20•%20SYSTEM%20ARCHITECT&descAlignY=65&descSize=20" />
 
-<p>
-  <i>Building systems that don’t just work — but scale.</i>
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Building+systems+that+don't+just+work;⚡+Building+systems+that+SCALE;⚡+Logic+%2B+Clean+UI+Balance" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile+Views&color=0e75b6&style=flat-square" />
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;System+Builder;Clean+Code+Advocate;Design+%2B+Logic+Balance" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
