@@ -56,7 +56,7 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 <div align="left">
 
-<a href="[https://linkedin.com/in/ysfeislan07](https://www.linkedin.com/in/eislan-yusuf/)" target="_blank" style="text-decoration:none;">
+<a href="https://www.linkedin.com/in/eislan-yusuf/" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
