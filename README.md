@@ -1,12 +1,8 @@
-<div align="left">
-
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=80&pause=999999&color=00F7FF&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Eislan+Yusuf" />
 
 <p><i>Building systems that don’t just work — but scale.</i></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+Fullstack+Developer;Still+Learning%2C+Still+Growing;Building+Real+World+Projects;Focused+on+Improving+Everyday" />
-
-</div>
 
 ---
 
@@ -27,18 +23,12 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-
 <img src="https://skillicons.dev/icons?i=php,postgresql,js,html,css,bootstrap,git,github,vscode,postman&theme=dark" />
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="50"/>
-
-</div>
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="left">
 
 <!-- STATS -->
 <img src="https://github-readme-stats.vercel.app/api?username=ysfeislan07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
@@ -46,17 +36,11 @@ I focus on combining **performance, clean logic, and user experience** into one 
 <!-- TOP LANG -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeislan07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-</div>
-
 ---
 
 ## 🔥 Streak & Activity
 
-<div align="left">
-
 <img src="https://streak-stats.demolab.com?user=ysfeislan07&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
@@ -68,8 +52,6 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 ## 🌐 Connect
 
-<div align="left">
-
 <a href="https://linkedin.com/in/ysfeislan07">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -77,8 +59,6 @@ I focus on combining **performance, clean logic, and user experience** into one 
 <a href="https://instagram.com/ysfeislan07">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-
-</div>
 
 ---
 
