@@ -54,13 +54,13 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 <h3>Connect</h3>
 
-<div align="center">
+<div align="left">
 
-<a href="https://linkedin.com/in/ysfeislan07" target="_blank">
+<a href="https://linkedin.com/in/ysfeislan07" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/ysfeislan07" target="_blank">
+<a href="https://instagram.com/ysfeislan07" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
