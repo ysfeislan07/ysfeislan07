@@ -1,12 +1,14 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48" height="48" alt="Waving Hand" />
-</div>
-
-<h1 align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I%27m+Yusuf,+a+Dev.;Crafting+Clean+Code;UI%2FUX%2BBackend;Building+Solutions">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I%27m+Yusuf,+a+Dev.;Crafting+Clean+Code;UI%2FUX%2BBackend;Building+Solutions" alt="Typing SVG" />
-  </a>
-</h1>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ysfeislan07.png" width="150" style="border-radius: 50%;" />
+    </td>
+    <td align="left">
+      <h1>Hi there! 👋</h1>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=400&lines=I%27m+Yusuf;A+Software+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ysfeislan07&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
