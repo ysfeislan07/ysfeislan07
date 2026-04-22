@@ -64,7 +64,3 @@ I focus on combining **performance, clean logic, and user experience** into one 
 </a>
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
