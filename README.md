@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=80&pause=999999&color=00F7FF&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Eislan+Yusuf" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=80&pause=999999&color=00F7FF&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Eislan+Yusuf" />
 
 <p><i>Building systems that don’t just work — but scale.</i></p>
 
