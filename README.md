@@ -29,7 +29,11 @@ I focus on combining **performance, clean logic, and user experience** into one 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,codeigniter,postgres,js,html,css,bootstrap,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,postgresql,js,html,css,bootstrap,git,github,vscode,postman&theme=dark" />
+
+<br><br>
+
+<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="50"/>
 
 </div>
 
